@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">InAppPurchaseDemo</string>
+
+    <string name="free_trial_heading">TRY 3 DAYS\nFree Trial</string>
+    <string name="no_ads">No Ads</string>
+    <string name="free_trial_offer_details">Offers auto renewable subscription, %1$s after trial. No commitment. Cancel any time.</string>
+    <string name="subscribe_now">Subscribe Now</string>
+    <string name="cancel_subscription_summary">At the end of  free trial period, subscription will be auto renew. Recurring billing, Cancel any time on Google play store.</string>
+    <string name="free_trial_footer_text">Privacy Policy | Restore Purchase | Details</string>
+    <string name="premium">Premium</string>
+    <string name="premium_heading">03 Days\nFree Trial</string>
+    <string name="all_ads_removed">All ads removed</string>
+    <string name="yearly">Yearly</string>
+    <string name="monthly">Monthly</string>
+    <string name="restore_purchase_summary">Subscription automatically renews. Cancel anytime or\nRestore Purchase | Details</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="restore_purchase">Restore Purchase</string>
+    <string name="details">Details</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="terms_and_conditions_summary">For further information, please check out our Privacy Policy and Terms and Conditions</string>
+
+    <string name="subscription_details">
+        &#8226; Enjoy an ad-free experience with your Cat-Proxy subscription.\n\n
+        &#8226; Once you confirm your purchase, your subscription will be managed through the Google Play Store.\n\n
+        &#8226; If you cancel your subscription, you will retain access until the end of the current billing period.\n\n
+        &#8226; Your subscription will automatically renew unless you disable auto-renewal at least 24 hours before the current period ends.\n\n
+        &#8226; You can manage your subscription or turn off auto-renewal directly in the Google Play Store settings.\n\n
+        &#8226; If you cancel your subscription during the trial period, you would not be charged.
+    </string>
+    <string name="cat_proxy_subscription_information">Cat-Proxy Subscription Information</string>
+    <string name="ok">Ok</string>
+    <string name="you_don_t_have_any_purchases_yet">You do not have any purchases yet!</string>
+    <string name="failed_to_connect_to_billing_server">Failed to connect to billing server!</string>
+    <string name="failed_to_connect">Failed to connect!</string>
+    <string name="subscription_already_purchased">Subscription already purchased!</string>
+    <string name="no_internet_connection">No Internet Connection!</string>
+    <string name="free_trial">Free Trial</string>
+</resources>
